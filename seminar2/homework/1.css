@@ -1,0 +1,13 @@
+body {
+    background-color: #5d44e989;
+}
+h3 {
+    color: rgb(10, 103, 232);
+    margin-left: 10%;
+}
+a {
+    color: rgb(0, 0, 0);
+}
+ol,ul {
+    margin-left: 10%;
+}

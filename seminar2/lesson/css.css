@@ -1,0 +1,44 @@
+h1 {
+    color: rgb(246, 226, 49);
+}
+h2 {
+    color: rgb(97, 215, 46);
+}
+a {
+    color: rgb(238, 10, 10);
+}
+body {
+    background-color: #00ffff;
+}
+.big_text {
+    font-size: 25px;
+}
+li {
+    font-size: 20px;
+}
+@font-face {
+	font-family: 'AngillaTattoo';
+	src: url('fonts/angillatattoo.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/angillatattoo.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/angillatattoo.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/angillatattoo.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/angillatattoo.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/angillatattoo.svg#angillatattoo') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+p {
+    font-family: 'AngillaTattoo', sans-serif;
+}
+ul {
+    list-style-type: square;
+}
+img {
+    margin-left: 30%; 
+    width: 500px;
+    border: 5px solid rgb(138, 5, 5);
+}
+a:hover {
+    color: #000;
+}
+hr {
+    border-width: 2px;
+}
